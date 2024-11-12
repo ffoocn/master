@@ -1,37 +1,115 @@
-#自用emby分流
+DOMAIN-SUFFIX,main.gugumedia.site,emby
+DOMAIN-KEYWORD,gugumedia,emby
+DOMAIN-SUFFIX,gugumedia.site,emby
 
-# > Dolphin Emby
-DOMAIN-SUFFIX,emby.ws
+DOMAIN-SUFFIX,v6.gugu.media,emby
+DOMAIN-KEYWORD,gugu,emby
+DOMAIN-SUFFIX,gugu.media,emby
 
-# > MisakaF
-DOMAIN-SUFFIX,misakaf.org
-IP-CIDR,102.223.180.108/32,no-resolve
+DOMAIN-SUFFIX,node1.guguemby.site,emby
+DOMAIN-KEYWORD,guguemby,emby
+DOMAIN-SUFFIX,guguemby.site,emby
 
-# > AcEmby
-DOMAIN-SUFFIX,zox.show
-IP-CIDR,5.78.74.124/32,no-resolve
+DOMAIN-SUFFIX,node2.guguemby.site,emby
 
-# > hxd_emby
-DOMAIN-SUFFIX,bili.rip
-IP-CIDR,152.70.239.210/32,no-resolve
+DOMAIN-SUFFIX,node3.guguemby.site,emby
 
-# > paul
-DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,581658.best,emby
+DOMAIN-KEYWORD,581658,emby
+DOMAIN-SUFFIX,best,emby
 
-# > ban
-DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,7777777.buzz,emby
+DOMAIN-KEYWORD,7777777,emby
+DOMAIN-SUFFIX,buzz,emby
 
-# > 树状图
-DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,emby3.mcjoker.xyz,emby
+DOMAIN-KEYWORD,mcjoker,emby
+DOMAIN-SUFFIX,mcjoker.xyz,emby
 
-# > ORANGE TV
-DOMAIN-SUFFIX,otv.icu
+DOMAIN-SUFFIX,jz.mcjoker.xyz,emby
 
-# > 111pay
-DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,emby.yomo.lol,emby
+DOMAIN-KEYWORD,yomo,emby
+DOMAIN-SUFFIX,yomo.lol,emby
 
-# > gugu
-DOMAIN-SUFFIX,gugumedia.link
+DOMAIN-SUFFIX,pub1.emby.wtf,emby
+DOMAIN-KEYWORD,emby,emby
+DOMAIN-SUFFIX,emby.wtf,emby
 
-# > ntrrr
-DOMAIN-SUFFIX,ntrrr.top
+DOMAIN-SUFFIX,pub1.term.wtf,emby
+DOMAIN-KEYWORD,term,emby
+DOMAIN-SUFFIX,term.wtf,emby
+
+DOMAIN-SUFFIX,pub2.emby.wtf,emby
+
+DOMAIN-SUFFIX,pub2cf.emby.wtf,emby
+
+DOMAIN-SUFFIX,pub2.term.wtf,emby
+
+DOMAIN-SUFFIX,pub3.emby.wtf,emby
+
+DOMAIN-SUFFIX,pub3.term.wtf,emby
+
+DOMAIN-SUFFIX,dpx1.1110111.top,emby
+DOMAIN-KEYWORD,1110111,emby
+DOMAIN-SUFFIX,1110111.top,emby
+
+DOMAIN-SUFFIX,dpx2.1110111.top,emby
+
+DOMAIN-SUFFIX,dpx3.1110111.top,emby
+
+DOMAIN-SUFFIX,dpx6.123456.buzz,emby
+DOMAIN-KEYWORD,123456,emby
+DOMAIN-SUFFIX,123456.buzz,emby
+
+DOMAIN-SUFFIX,dpx7.123456.buzz,emby
+
+DOMAIN-SUFFIX,dpx8.123456.buzz,emby
+
+DOMAIN-SUFFIX,dpx9.123456.buzz,emby
+
+DOMAIN-SUFFIX,dpx10.123456.buzz,emby
+
+DOMAIN-SUFFIX,0570.dpxemby.xyz,emby
+DOMAIN-KEYWORD,dpxemby,emby
+DOMAIN-SUFFIX,dpxemby.xyz,emby
+
+DOMAIN-SUFFIX,0570.123456.buzz,emby
+
+DOMAIN-SUFFIX,123456.buzz,emby
+
+DOMAIN-SUFFIX,ipv6.dpxemby.xyz,emby
+
+DOMAIN-SUFFIX,direct.lyrebirdemby.com,emby
+DOMAIN-KEYWORD,lyrebirdemby,emby
+DOMAIN-SUFFIX,lyrebirdemby.com,emby
+
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com,emby
+
+DOMAIN-SUFFIX,stream.ntrrr.top,emby
+DOMAIN-KEYWORD,ntrrr,emby
+DOMAIN-SUFFIX,ntrrr.top,emby
+
+DOMAIN-SUFFIX,emby.carlos.trade,emby
+DOMAIN-KEYWORD,carlos,emby
+DOMAIN-SUFFIX,carlos.trade,emby
+
+DOMAIN-SUFFIX,sg.carlos.trade,emby
+
+DOMAIN-SUFFIX,cf.carlos.trade,emby
+
+DOMAIN-SUFFIX,pilipili.club,emby
+DOMAIN-KEYWORD,pilipili,emby
+DOMAIN-SUFFIX,club,emby
+
+DOMAIN-SUFFIX,css.pilipili.club,emby
+
+DOMAIN-SUFFIX,tw.pilipili.club,emby
+
+DOMAIN-SUFFIX,电棍专线.霹雳霹雳.com,emby
+DOMAIN-KEYWORD,霹雳霹雳,emby
+DOMAIN-SUFFIX,霹雳霹雳.com,emby
+
+DOMAIN-SUFFIX,otto.pilipili.club,emby
+
+DOMAIN-SUFFIX,netcupde.pilipili.club,emby
