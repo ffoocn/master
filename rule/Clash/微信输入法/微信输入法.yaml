@@ -1,8 +1,0 @@
-# NAME: 微信输入法
-# AUTHOR: App Privacy Report
-# REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 08:54:52
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
-payload:
-  - DOMAIN-SUFFIX,qq.com
