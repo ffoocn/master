@@ -1,0 +1,15 @@
+# NAME: 京东又好又便宜
+# AUTHOR: App Privacy Report
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-05 08:48:42
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
+DOMAIN,gw.alicdn.com
+DOMAIN,mzstorekit.itunes.apple.com
+DOMAIN-SUFFIX,300hu.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jdcloud-oss.com
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,pddpic.com
