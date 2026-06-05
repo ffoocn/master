@@ -1,0 +1,12 @@
+# NAME: Chatgpt
+# AUTHOR: App Privacy Report
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-05 09:26:50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,ios.chat.openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gstatic.com

@@ -1,0 +1,13 @@
+# NAME: 彩云天气pro
+# AUTHOR: App Privacy Report
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-05 09:26:50
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 6
+DOMAIN,meteorology.caiyuncdn.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,colorfulclouds.net
+DOMAIN-SUFFIX,cyapi.cn
+DOMAIN-SUFFIX,umeng.com

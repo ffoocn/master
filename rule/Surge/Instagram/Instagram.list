@@ -1,0 +1,13 @@
+# NAME: Instagram
+# AUTHOR: App Privacy Report
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-05 09:26:50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 4
+# TOTAL: 6
+DOMAIN,scontent.cdninstagram.com
+DOMAIN,scontent.cdninstagram.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instagram.com

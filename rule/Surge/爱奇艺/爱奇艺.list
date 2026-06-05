@@ -1,0 +1,27 @@
+# NAME: 爱奇艺
+# AUTHOR: App Privacy Report
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-05 09:26:50
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 17
+# TOTAL: 20
+DOMAIN,api.afdback.ppsimg.com
+DOMAIN,lf-cdn-tos.bytescm.com
+DOMAIN,spcsz.cdn.bcebos.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,qchannel03.cn
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,ssports.com
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,zztfly.com

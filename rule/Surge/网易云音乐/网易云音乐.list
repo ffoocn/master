@@ -1,0 +1,15 @@
+# NAME: 网易云音乐
+# AUTHOR: App Privacy Report
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-05 09:26:50
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 4
+# TOTAL: 8
+DOMAIN,ac.dun.163yun.com
+DOMAIN,inappcheck.itunes.apple.com
+DOMAIN,sdkgen.data.tianwenca.com
+DOMAIN,udataresys-log.nie.netease.com
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,xinqiucc.com
