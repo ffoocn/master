@@ -1,0 +1,21 @@
+# NAME: 中国电信
+# AUTHOR: App Privacy Report
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-05 09:13:43
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 13
+# TOTAL: 14
+DOMAIN,cdn.dcloud.net.cn
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bestpay.cn
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,ctmus.cn
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,jiguang.cn
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,qq.com
