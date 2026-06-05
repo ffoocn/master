@@ -1,9 +1,12 @@
 # NAME: 百度网盘
 # AUTHOR: App Privacy Report
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 09:26:50
+# UPDATED: 2026-06-05 09:58:13
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# IP-CIDR: 2
+# TOTAL: 4
 DOMAIN,staticsns.cdn.bcebos.com
 DOMAIN-SUFFIX,baidu.com
+IP-CIDR,110.242.70.177/32,no-resolve
+IP-CIDR,119.75.222.122/32,no-resolve

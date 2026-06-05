@@ -1,9 +1,113 @@
 # NAME: 千问
 # AUTHOR: App Privacy Report
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 09:26:50
+# UPDATED: 2026-06-05 09:58:13
 # DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# IP-CIDR: 82
+# IP-CIDR6: 20
+# TOTAL: 105
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,qianwen.com
 DOMAIN-SUFFIX,taobao.com
+IP-CIDR,106.8.159.241/32,no-resolve
+IP-CIDR,110.242.70.57/32,no-resolve
+IP-CIDR,110.253.190.132/32,no-resolve
+IP-CIDR,110.253.191.12/32,no-resolve
+IP-CIDR,116.132.223.75/32,no-resolve
+IP-CIDR,116.132.255.10/32,no-resolve
+IP-CIDR,121.17.122.88/32,no-resolve
+IP-CIDR,121.18.168.113/32,no-resolve
+IP-CIDR,121.18.169.218/32,no-resolve
+IP-CIDR,121.29.103.13/32,no-resolve
+IP-CIDR,121.29.103.15/32,no-resolve
+IP-CIDR,121.29.103.8/32,no-resolve
+IP-CIDR,121.29.38.244/32,no-resolve
+IP-CIDR,123.180.156.135/32,no-resolve
+IP-CIDR,123.180.156.65/32,no-resolve
+IP-CIDR,124.238.242.11/32,no-resolve
+IP-CIDR,124.238.242.163/32,no-resolve
+IP-CIDR,124.238.242.84/32,no-resolve
+IP-CIDR,124.239.228.35/32,no-resolve
+IP-CIDR,128.1.157.226/32,no-resolve
+IP-CIDR,128.1.157.251/32,no-resolve
+IP-CIDR,140.205.70.130/32,no-resolve
+IP-CIDR,140.205.70.178/32,no-resolve
+IP-CIDR,140.205.70.241/32,no-resolve
+IP-CIDR,140.205.70.246/32,no-resolve
+IP-CIDR,157.255.240.180/32,no-resolve
+IP-CIDR,180.163.145.17/32,no-resolve
+IP-CIDR,198.18.178.229/32,no-resolve
+IP-CIDR,198.18.181.3/32,no-resolve
+IP-CIDR,198.18.35.58/32,no-resolve
+IP-CIDR,198.19.14.80/32,no-resolve
+IP-CIDR,198.19.21.21/32,no-resolve
+IP-CIDR,198.19.21.23/32,no-resolve
+IP-CIDR,198.19.21.24/32,no-resolve
+IP-CIDR,198.19.21.25/32,no-resolve
+IP-CIDR,198.19.21.26/32,no-resolve
+IP-CIDR,198.19.21.27/32,no-resolve
+IP-CIDR,198.19.21.32/32,no-resolve
+IP-CIDR,198.19.21.33/32,no-resolve
+IP-CIDR,198.19.21.34/32,no-resolve
+IP-CIDR,198.19.21.35/32,no-resolve
+IP-CIDR,198.19.21.36/32,no-resolve
+IP-CIDR,198.19.21.37/32,no-resolve
+IP-CIDR,198.19.21.38/32,no-resolve
+IP-CIDR,198.19.21.39/32,no-resolve
+IP-CIDR,198.19.21.41/32,no-resolve
+IP-CIDR,198.19.21.43/32,no-resolve
+IP-CIDR,198.19.21.46/32,no-resolve
+IP-CIDR,198.19.21.47/32,no-resolve
+IP-CIDR,198.19.21.52/32,no-resolve
+IP-CIDR,198.19.21.53/32,no-resolve
+IP-CIDR,198.19.21.54/32,no-resolve
+IP-CIDR,203.119.174.107/32,no-resolve
+IP-CIDR,203.119.204.102/32,no-resolve
+IP-CIDR,203.119.204.160/32,no-resolve
+IP-CIDR,203.119.204.182/32,no-resolve
+IP-CIDR,203.119.204.199/32,no-resolve
+IP-CIDR,203.119.204.219/32,no-resolve
+IP-CIDR,203.119.204.35/32,no-resolve
+IP-CIDR,203.119.238.111/32,no-resolve
+IP-CIDR,203.119.238.190/32,no-resolve
+IP-CIDR,203.119.238.233/32,no-resolve
+IP-CIDR,203.119.238.37/32,no-resolve
+IP-CIDR,203.119.245.36/32,no-resolve
+IP-CIDR,203.119.245.68/32,no-resolve
+IP-CIDR,203.119.252.101/32,no-resolve
+IP-CIDR,203.119.252.4/32,no-resolve
+IP-CIDR,203.209.250.2/32,no-resolve
+IP-CIDR,211.94.108.186/32,no-resolve
+IP-CIDR,218.11.11.223/32,no-resolve
+IP-CIDR,218.11.15.202/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,49.7.2.186/32,no-resolve
+IP-CIDR,59.82.113.142/32,no-resolve
+IP-CIDR,59.82.118.176/32,no-resolve
+IP-CIDR,59.82.120.52/32,no-resolve
+IP-CIDR,59.82.122.127/32,no-resolve
+IP-CIDR,59.82.122.145/32,no-resolve
+IP-CIDR,59.82.31.201/32,no-resolve
+IP-CIDR,60.9.0.237/32,no-resolve
+IP-CIDR,61.240.142.45/32,no-resolve
+IP-CIDR6,2401:b180:1100::15c/128,no-resolve
+IP-CIDR6,2401:b180:7003::49/128,no-resolve
+IP-CIDR6,2408:4001:f00::1001/128,no-resolve
+IP-CIDR6,2408:4001:f00::100f/128,no-resolve
+IP-CIDR6,2408:4001:f00::1023/128,no-resolve
+IP-CIDR6,2408:4001:f00::10ac/128,no-resolve
+IP-CIDR6,2408:4001:f00::10e9/128,no-resolve
+IP-CIDR6,2408:4001:f00::12c5/128,no-resolve
+IP-CIDR6,2408:4001:f00::1c8/128,no-resolve
+IP-CIDR6,2408:4001:f10::290/128,no-resolve
+IP-CIDR6,2408:4001:f10::34e/128,no-resolve
+IP-CIDR6,2408:4001:f10::360/128,no-resolve
+IP-CIDR6,2408:871a:1901:7:3::16/128,no-resolve
+IP-CIDR6,2408:871a:1901:7:3::1e/128,no-resolve
+IP-CIDR6,2408:871a:2100:1b23:0:ff:b07a:7ebc/128,no-resolve
+IP-CIDR6,2408:871a:3001:3000::8/128,no-resolve
+IP-CIDR6,2408:871a:8010:600:3::3fb/128,no-resolve
+IP-CIDR6,2408:871a:a100:a::2d/128,no-resolve
+IP-CIDR6,240e:940:a03:3000::1/128,no-resolve
+IP-CIDR6,240e:940:a03:3002::17/128,no-resolve

@@ -1,11 +1,13 @@
 # NAME: Safari
 # AUTHOR: App Privacy Report
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 09:26:50
+# UPDATED: 2026-06-05 09:58:13
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 2
-# TOTAL: 4
+# IP-CIDR: 1
+# TOTAL: 5
 DOMAIN,cdn.honey.io
 DOMAIN,fonts.gstatic.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,joinhoney.com
+IP-CIDR,103.39.65.212/32,no-resolve

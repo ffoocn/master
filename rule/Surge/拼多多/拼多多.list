@@ -1,7 +1,18 @@
 # NAME: 拼多多
 # AUTHOR: App Privacy Report
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 09:26:50
+# UPDATED: 2026-06-05 09:58:13
 # DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# IP-CIDR: 2
+# IP-CIDR6: 7
+# TOTAL: 10
 DOMAIN-SUFFIX,pinduoduo.com
+IP-CIDR,198.18.181.146/32,no-resolve
+IP-CIDR,58.217.134.27/32,no-resolve
+IP-CIDR6,2402:4e00:1411:201:0:9964:ba21:5a41/128,no-resolve
+IP-CIDR6,2402:4e00:1411:601:0:9984:c4d1:fcf9/128,no-resolve
+IP-CIDR6,240c:409f::3:0:2d7/128,no-resolve
+IP-CIDR6,240e:979:e03:2000:0:5:0:1d3/128,no-resolve
+IP-CIDR6,240e:979:e03:2000:0:5:0:50/128,no-resolve
+IP-CIDR6,240e:979:e03:2000:0:5:0:66/128,no-resolve
+IP-CIDR6,240e:e1:aa00:47::61/128,no-resolve

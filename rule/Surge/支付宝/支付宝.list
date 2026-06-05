@@ -1,10 +1,12 @@
 # NAME: 支付宝
 # AUTHOR: App Privacy Report
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 09:26:50
+# UPDATED: 2026-06-05 09:58:13
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 9
-# TOTAL: 10
+# IP-CIDR: 29
+# IP-CIDR6: 13
+# TOTAL: 52
 DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,alibabachengdun.com
@@ -15,3 +17,45 @@ DOMAIN-SUFFIX,bestpay.com.cn
 DOMAIN-SUFFIX,ccb.com.cn
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,taobao.com
+IP-CIDR,101.72.238.116/32,no-resolve
+IP-CIDR,101.73.103.81/32,no-resolve
+IP-CIDR,110.75.246.212/32,no-resolve
+IP-CIDR,110.76.3.48/32,no-resolve
+IP-CIDR,110.76.6.66/32,no-resolve
+IP-CIDR,111.225.210.68/32,no-resolve
+IP-CIDR,119.249.48.12/32,no-resolve
+IP-CIDR,119.42.251.220/32,no-resolve
+IP-CIDR,121.29.103.81/32,no-resolve
+IP-CIDR,124.237.234.91/32,no-resolve
+IP-CIDR,124.237.234.92/32,no-resolve
+IP-CIDR,124.237.234.98/32,no-resolve
+IP-CIDR,124.238.242.152/32,no-resolve
+IP-CIDR,124.238.242.153/32,no-resolve
+IP-CIDR,124.238.244.181/32,no-resolve
+IP-CIDR,198.19.26.236/32,no-resolve
+IP-CIDR,203.209.230.34/32,no-resolve
+IP-CIDR,203.209.230.36/32,no-resolve
+IP-CIDR,203.209.238.225/32,no-resolve
+IP-CIDR,203.209.244.145/32,no-resolve
+IP-CIDR,203.209.245.158/32,no-resolve
+IP-CIDR,203.209.250.35/32,no-resolve
+IP-CIDR,203.209.255.221/32,no-resolve
+IP-CIDR,203.209.255.236/32,no-resolve
+IP-CIDR,203.209.255.245/32,no-resolve
+IP-CIDR,203.209.255.251/32,no-resolve
+IP-CIDR,218.11.15.203/32,no-resolve
+IP-CIDR,27.128.221.3/32,no-resolve
+IP-CIDR,27.128.223.16/32,no-resolve
+IP-CIDR6,2000::/128,no-resolve
+IP-CIDR6,2400:b200:1000:f010::274/128,no-resolve
+IP-CIDR6,2400:b200:5000:3000::1f8/128,no-resolve
+IP-CIDR6,2400:b200:5000:b000::87/128,no-resolve
+IP-CIDR6,2400:b200:5000:b000::9a/128,no-resolve
+IP-CIDR6,2400:b200:5000:b000::c8/128,no-resolve
+IP-CIDR6,240e:940:60a:1:3::2b/128,no-resolve
+IP-CIDR6,240e:940:e015:1::42/128,no-resolve
+IP-CIDR6,240e:b1:9801:40b:3::32/128,no-resolve
+IP-CIDR6,240e:b1:9801:40c:3::412/128,no-resolve
+IP-CIDR6,240e:b1:9801:40d:3::3d1/128,no-resolve
+IP-CIDR6,240e:b1:9801:40e:3::12/128,no-resolve
+IP-CIDR6,240e:e9:6001:0:58:213:97:22/128,no-resolve

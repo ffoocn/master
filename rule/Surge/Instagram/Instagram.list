@@ -1,13 +1,20 @@
 # NAME: Instagram
 # AUTHOR: App Privacy Report
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 09:26:50
+# UPDATED: 2026-06-05 09:58:13
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 4
-# TOTAL: 6
+# IP-CIDR: 3
+# IP-CIDR6: 2
+# TOTAL: 11
 DOMAIN,scontent.cdninstagram.com
 DOMAIN,scontent.cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagram.com
+IP-CIDR,198.18.217.118/32,no-resolve
+IP-CIDR,198.18.217.119/32,no-resolve
+IP-CIDR,198.18.218.179/32,no-resolve
+IP-CIDR6,2001::1/128,no-resolve
+IP-CIDR6,2a03:2880:f10e:83:face:b00c:0:25de/128,no-resolve

@@ -1,10 +1,12 @@
 # NAME: 高德地图
 # AUTHOR: App Privacy Report
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 09:26:50
+# UPDATED: 2026-06-05 09:58:13
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 10
-# TOTAL: 13
+# IP-CIDR: 7
+# IP-CIDR6: 7
+# TOTAL: 27
 DOMAIN,cgi.connect.qq.com
 DOMAIN,gw.alicdn.com
 DOMAIN,inappcheck.itunes.apple.com
@@ -18,3 +20,17 @@ DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,qchannel03.cn
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,youku.com
+IP-CIDR,114.112.215.7/32,no-resolve
+IP-CIDR,203.119.204.148/32,no-resolve
+IP-CIDR,203.119.204.160/32,no-resolve
+IP-CIDR,223.109.146.130/32,no-resolve
+IP-CIDR,49.79.227.195/32,no-resolve
+IP-CIDR,59.82.113.35/32,no-resolve
+IP-CIDR,59.82.121.172/32,no-resolve
+IP-CIDR6,2408:4001:f00::1038/128,no-resolve
+IP-CIDR6,2408:4001:f00::10fd/128,no-resolve
+IP-CIDR6,2408:4001:f00::12ca/128,no-resolve
+IP-CIDR6,2408:4001:f00::12d0/128,no-resolve
+IP-CIDR6,2408:4001:f10::14c/128,no-resolve
+IP-CIDR6,2408:4001:f10::3f1/128,no-resolve
+IP-CIDR6,240e:945:5000:8::d/128,no-resolve
