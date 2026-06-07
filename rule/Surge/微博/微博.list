@@ -1,10 +1,8 @@
 # NAME: 微博
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:11:50
-# DOMAIN: 1
+# UPDATED: 2026-06-08 05:48:11
 # DOMAIN-SUFFIX: 2
-# TOTAL: 3
-DOMAIN,mzstorekit.itunes.apple.com
+# TOTAL: 2
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,weibo.cn

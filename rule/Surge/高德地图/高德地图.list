@@ -1,13 +1,9 @@
 # NAME: 高德地图
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:11:50
-# DOMAIN: 3
+# UPDATED: 2026-06-08 05:48:11
 # DOMAIN-SUFFIX: 13
-# TOTAL: 16
-DOMAIN,cgi.connect.qq.com
-DOMAIN,gw.alicdn.com
-DOMAIN,inappcheck.itunes.apple.com
+# TOTAL: 13
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com

@@ -1,13 +1,10 @@
 # NAME: Infuse
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:11:50
-# DOMAIN: 4
+# UPDATED: 2026-06-08 05:48:11
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 23
-# TOTAL: 27
-DOMAIN,1851836760.v.123pan.cn
-DOMAIN,amp-api-edge.apps.apple.com
-DOMAIN,cdn.rjmao.com
+# TOTAL: 24
 DOMAIN,prewxacode.wxqcloud.qq-32702.googleapis.com
 DOMAIN-SUFFIX,123pan.cn
 DOMAIN-SUFFIX,3796779fb642c20bd87a7b567d2c66e6.googleapis.com

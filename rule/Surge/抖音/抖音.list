@@ -1,16 +1,9 @@
 # NAME: 抖音
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:11:50
-# DOMAIN: 6
+# UPDATED: 2026-06-08 05:48:11
 # DOMAIN-SUFFIX: 35
-# TOTAL: 41
-DOMAIN,cgi.connect.qq.com
-DOMAIN,lf-leads-fe-scm.bytecdn.com
-DOMAIN,lf3-static.bytednsdoc.com
-DOMAIN,sdktt.data.tianwenca.com
-DOMAIN,thk3wzs11lnvs.v1d.pkoplink.com
-DOMAIN,v9-default.tt.x.bsgslb.cn
+# TOTAL: 35
 DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,apple.com

@@ -1,10 +1,8 @@
 # NAME: 米家
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:11:50
-# DOMAIN: 1
+# UPDATED: 2026-06-08 05:48:11
 # DOMAIN-SUFFIX: 2
-# TOTAL: 3
-DOMAIN,app.chat.xiaomi.net
+# TOTAL: 2
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,xiaomi.net

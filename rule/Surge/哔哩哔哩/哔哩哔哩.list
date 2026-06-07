@@ -1,12 +1,9 @@
 # NAME: 哔哩哔哩
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:11:50
-# DOMAIN: 2
+# UPDATED: 2026-06-08 05:48:11
 # DOMAIN-SUFFIX: 10
-# TOTAL: 12
-DOMAIN,aecnjura7cpy57xo.nexusedgeio.com
-DOMAIN,amp-api-edge.apps.apple.com
+# TOTAL: 10
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net

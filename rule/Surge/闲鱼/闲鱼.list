@@ -1,12 +1,9 @@
 # NAME: 闲鱼
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:11:50
-# DOMAIN: 2
+# UPDATED: 2026-06-08 05:48:11
 # DOMAIN-SUFFIX: 31
-# TOTAL: 33
-DOMAIN,dsp.ads.umeng.com
-DOMAIN,lf-cdn-tos.bytescm.com
+# TOTAL: 31
 DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba-inc.com
