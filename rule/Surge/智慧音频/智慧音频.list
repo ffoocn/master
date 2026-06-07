@@ -1,0 +1,12 @@
+# NAME: 智慧音频
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:11:50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+DOMAIN,smarthome-drcn.dbankcdn.cn
+DOMAIN,update-drcn.platform.hicloud.com
+DOMAIN-SUFFIX,dbankcdn.cn
+DOMAIN-SUFFIX,dbankcloud.cn
+DOMAIN-SUFFIX,hicloud.com

@@ -1,0 +1,12 @@
+# NAME: Safari
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:11:50
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+DOMAIN,cdn.honey.io
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,honey.io
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,joinhoney.com

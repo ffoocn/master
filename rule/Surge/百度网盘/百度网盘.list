@@ -1,0 +1,10 @@
+# NAME: 百度网盘
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:11:50
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+DOMAIN,staticsns.cdn.bcebos.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bcebos.com

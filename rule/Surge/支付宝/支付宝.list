@@ -1,0 +1,18 @@
+# NAME: 支付宝
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:11:50
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 10
+# TOTAL: 11
+DOMAIN,cdn.ynuf.aliapp.org
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,bestpay.cn
+DOMAIN-SUFFIX,bestpay.com.cn
+DOMAIN-SUFFIX,ccb.com.cn
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,taobao.com

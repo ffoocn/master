@@ -1,0 +1,40 @@
+# NAME: 闲鱼
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:11:50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 31
+# TOTAL: 33
+DOMAIN,dsp.ads.umeng.com
+DOMAIN,lf-cdn-tos.bytescm.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,effirst.com
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,ubixioe.com
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,voiceads.cn
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,zijieapi.com
