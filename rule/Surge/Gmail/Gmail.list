@@ -1,9 +1,0 @@
-# NAME: Gmail
-# AUTHOR: App Privacy Report
-# REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-05 09:58:13
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,oauth2.googleapis.com
-DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
