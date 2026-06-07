@@ -1,0 +1,28 @@
+# NAME: 微信
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 16
+# TOTAL: 20
+payload:
+  - DOMAIN,amp-api-edge.apps.apple.com
+  - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+  - DOMAIN,jfe.s3-cache-accelerate.cn-north-1.jdcloud-oss.com
+  - DOMAIN,open.e.189.cn
+  - DOMAIN-SUFFIX,189.cn
+  - DOMAIN-SUFFIX,189smarthome.com
+  - DOMAIN-SUFFIX,anticheatexpert.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,id6.me
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,jdcloud-oss.com
+  - DOMAIN-SUFFIX,ott4china.com
+  - DOMAIN-SUFFIX,qlogo.cn
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,qq.com.cn
+  - DOMAIN-SUFFIX,servicewechat.com
+  - DOMAIN-SUFFIX,tencent-cloud.net
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,wechatpay.cn

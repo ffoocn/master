@@ -1,0 +1,10 @@
+# NAME: TelegramMessenger
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 2
+payload:
+  - DOMAIN,amp-api-edge.apps.apple.com
+  - DOMAIN-SUFFIX,apple.com

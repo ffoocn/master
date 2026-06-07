@@ -1,0 +1,13 @@
+# NAME: 照片
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+payload:
+  - DOMAIN,alibaba-cn-pvg-00001.oss-enet.aliyuncs.com
+  - DOMAIN,baidu-cn-north-00001.bj-a.bcebos.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,bcebos.com
+  - DOMAIN-SUFFIX,icloud.com.cn

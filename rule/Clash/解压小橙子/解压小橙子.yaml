@@ -1,0 +1,27 @@
+# NAME: 解压小橙子
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 16
+# TOTAL: 19
+payload:
+  - DOMAIN,dobestapp.oss-cn-hangzhou.aliyuncs.com
+  - DOMAIN,open.e.kuaishou.cn
+  - DOMAIN,open.e.kuaishou.com
+  - DOMAIN-SUFFIX,adkwai.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,bdurl.net
+  - DOMAIN-SUFFIX,beizi.biz
+  - DOMAIN-SUFFIX,belikehub.com
+  - DOMAIN-SUFFIX,funcrea.com
+  - DOMAIN-SUFFIX,gaietypro.com
+  - DOMAIN-SUFFIX,gifshow.com
+  - DOMAIN-SUFFIX,gravity-engine.com
+  - DOMAIN-SUFFIX,hubcloud.com.cn
+  - DOMAIN-SUFFIX,kuaishou.cn
+  - DOMAIN-SUFFIX,kuaishou.com
+  - DOMAIN-SUFFIX,oceanengine.com
+  - DOMAIN-SUFFIX,qq.com

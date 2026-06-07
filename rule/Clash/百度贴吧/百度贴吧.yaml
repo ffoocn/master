@@ -1,0 +1,12 @@
+# NAME: 百度贴吧
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+payload:
+  - DOMAIN,tb1.bdstatic.com
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,bdstatic.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com

@@ -1,0 +1,10 @@
+# NAME: 飞牛
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,fnnas.com
+  - DOMAIN-SUFFIX,fnos.net
+  - DOMAIN-SUFFIX,qq.com

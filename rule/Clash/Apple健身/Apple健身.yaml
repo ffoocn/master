@@ -1,0 +1,11 @@
+# NAME: Apple健身
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+payload:
+  - DOMAIN,entitlements.itunes.apple.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com.cn

@@ -1,0 +1,28 @@
+# NAME: 红果短剧
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN-SUFFIX: 21
+# TOTAL: 21
+payload:
+  - DOMAIN-SUFFIX,189.cn
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,bdurl.net
+  - DOMAIN-SUFFIX,bytedance.com
+  - DOMAIN-SUFFIX,bytegecko.com
+  - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,dahhxxttxs.com
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,ecombdapi.com
+  - DOMAIN-SUFFIX,ecombdimg.com
+  - DOMAIN-SUFFIX,fqnovel.com
+  - DOMAIN-SUFFIX,fqnovelpic.com
+  - DOMAIN-SUFFIX,qrstuvwxyzab.com
+  - DOMAIN-SUFFIX,qtaeixd.com
+  - DOMAIN-SUFFIX,qznovelvod.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,vegslb.com
+  - DOMAIN-SUFFIX,wuchuyun.com
+  - DOMAIN-SUFFIX,ydycdn.com
+  - DOMAIN-SUFFIX,zijieapi.com

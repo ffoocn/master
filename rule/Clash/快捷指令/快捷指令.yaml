@@ -1,0 +1,8 @@
+# NAME: 快捷指令
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+payload:
+  - DOMAIN-SUFFIX,icloud.com

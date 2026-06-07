@@ -1,0 +1,20 @@
+# NAME: 哔哩哔哩
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 05:12:50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 10
+# TOTAL: 12
+payload:
+  - DOMAIN,aecnjura7cpy57xo.nexusedgeio.com
+  - DOMAIN,amp-api-edge.apps.apple.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,hdslb.com
+  - DOMAIN-SUFFIX,nexusedgeio.com
+  - DOMAIN-SUFFIX,qrstuvwxyzab.com
+  - DOMAIN-SUFFIX,yirujs.com
+  - DOMAIN-SUFFIX,zhenidc.cn
