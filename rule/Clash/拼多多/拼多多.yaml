@@ -1,8 +1,0 @@
-# NAME: 拼多多
-# AUTHOR: Rulify
-# REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:15:55
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
-payload:
-  - DOMAIN-SUFFIX,pinduoduo.com

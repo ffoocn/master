@@ -1,9 +1,0 @@
-# NAME: 邮件
-# AUTHOR: Rulify
-# REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 05:15:55
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
-payload:
-  - DOMAIN-SUFFIX,icloud.com.cn
-  - DOMAIN-SUFFIX,me.com
