@@ -1,7 +1,9 @@
 # NAME: 拼多多
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 13:07:31
+# UPDATED: 2026-06-09 02:30:40
 # DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# IP-CIDR6: 1
+# TOTAL: 2
 DOMAIN-SUFFIX,pddpic.com
+IP-CIDR6,240c:409f::3:0:163/128,no-resolve
