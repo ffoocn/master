@@ -1,0 +1,13 @@
+# NAME: 闲鱼
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-08 12:30:33
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 4
+# TOTAL: 6
+DOMAIN,msgacs.m.taobao.com
+DOMAIN,slsrole.alicdn.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
