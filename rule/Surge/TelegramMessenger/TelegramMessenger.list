@@ -1,7 +1,7 @@
-# NAME: 拼多多
+# NAME: TelegramMessenger
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
 # UPDATED: 2026-06-08 13:07:31
-# DOMAIN-SUFFIX: 1
+# IP-CIDR: 1
 # TOTAL: 1
-DOMAIN-SUFFIX,pddpic.com
+IP-CIDR,194.221.250.50/32,no-resolve

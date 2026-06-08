@@ -1,30 +1,45 @@
 # NAME: 抖音
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 12:30:33
-# DOMAIN-SUFFIX: 6
-# IP-CIDR: 2
-# IP-CIDR6: 14
-# TOTAL: 22
+# UPDATED: 2026-06-08 13:07:31
+# DOMAIN-SUFFIX: 11
+# IP-CIDR: 3
+# IP-CIDR6: 23
+# TOTAL: 37
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,cjjd14.com
+DOMAIN-SUFFIX,dahhxxttxs.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,yingt.fun
 IP-CIDR,110.43.121.3/32,no-resolve
+IP-CIDR,119.5.142.208/32,no-resolve
 IP-CIDR,175.42.93.13/32,no-resolve
-IP-CIDR6,2408:8266:3e00:849:22a1:b191:ca02:9598/128,no-resolve
+IP-CIDR6,2408:8266:3e00::/48,no-resolve
 IP-CIDR6,2408:8640:50ff:13::20/128,no-resolve
 IP-CIDR6,2408:8640:5411:32::2/128,no-resolve
 IP-CIDR6,2408:8649:4104::10/128,no-resolve
+IP-CIDR6,2408:867a:400::57c/128,no-resolve
+IP-CIDR6,2408:871a:1040::/48,no-resolve
 IP-CIDR6,2408:871a:10d0::/48,no-resolve
 IP-CIDR6,2408:871a:1840:5005:3::13/128,no-resolve
+IP-CIDR6,2408:871a:1901:8:3::66/128,no-resolve
 IP-CIDR6,2408:871a:5100::/48,no-resolve
-IP-CIDR6,2408:871a:a900:40:8000:0:b00:10/128,no-resolve
-IP-CIDR6,240e:83:200::101/128,no-resolve
-IP-CIDR6,240e:910:e000:501::17a/128,no-resolve
-IP-CIDR6,240e:940:202:6:8000:0:b00:49/128,no-resolve
+IP-CIDR6,2408:871a:8010:600:3::2c/128,no-resolve
+IP-CIDR6,2408:871a:a900::/48,no-resolve
+IP-CIDR6,240e:83:200::/48,no-resolve
+IP-CIDR6,240e:910:e000::/48,no-resolve
+IP-CIDR6,240e:940:202::/48,no-resolve
+IP-CIDR6,240e:940:60a:2:3::14/128,no-resolve
+IP-CIDR6,240e:940:d00::/48,no-resolve
 IP-CIDR6,240e:940:e00:1:8000:0:b00:136/128,no-resolve
 IP-CIDR6,240e:940:e008::/48,no-resolve
+IP-CIDR6,240e:940:e010:2:8000:0:b00:24/128,no-resolve
+IP-CIDR6,240e:95c:3019:d00::8c/128,no-resolve
 IP-CIDR6,240e:b1:9801::/48,no-resolve
+IP-CIDR6,240e:b1:c80d:0:5e::1e/128,no-resolve

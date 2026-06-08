@@ -1,12 +1,16 @@
 # NAME: 红果短剧
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-08 12:30:33
+# UPDATED: 2026-06-08 13:07:31
 # DOMAIN-SUFFIX: 3
-# IP-CIDR6: 2
-# TOTAL: 5
+# IP-CIDR6: 6
+# TOTAL: 9
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,vegslb.com
+IP-CIDR6,2408:8706:0:dd80::b00:37/128,no-resolve
+IP-CIDR6,2408:871a:1001:500b:37::15/128,no-resolve
 IP-CIDR6,2408:871a:6010:302::1:139/128,no-resolve
 IP-CIDR6,2408:8726:2000:6::133/128,no-resolve
+IP-CIDR6,2408:8766:0:101c:40::15/128,no-resolve
+IP-CIDR6,2408:8776:1:b::2:47/128,no-resolve
