@@ -1,0 +1,9 @@
+# NAME: 哔哩哔哩
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-09 10:46:33
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilivideo.com

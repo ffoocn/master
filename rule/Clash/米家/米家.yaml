@@ -1,0 +1,16 @@
+# NAME: 米家
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-09 10:46:33
+# DOMAIN: 1
+# IP-CIDR: 5
+# IP-CIDR6: 1
+# TOTAL: 7
+payload:
+  - DOMAIN,app.chat.xiaomi.net
+  - IP-CIDR,110.43.39.143/32
+  - IP-CIDR,110.43.68.171/32
+  - IP-CIDR,120.7.84.57/32
+  - IP-CIDR,27.189.88.3/32
+  - IP-CIDR,42.157.165.226/32
+  - IP-CIDR6,2407:c080:801:fffe::15e:8862/128

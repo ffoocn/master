@@ -1,0 +1,12 @@
+# NAME: TelegramMessenger
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-09 10:46:33
+# IP-CIDR: 5
+# TOTAL: 5
+payload:
+  - IP-CIDR,149.154.167.255/32
+  - IP-CIDR,149.154.167.92/32
+  - IP-CIDR,149.154.171.255/32
+  - IP-CIDR,149.154.175.211/32
+  - IP-CIDR,194.221.250.50/32

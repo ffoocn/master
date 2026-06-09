@@ -1,0 +1,8 @@
+# NAME: 高德地图
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-06-09 10:46:33
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+payload:
+  - DOMAIN-SUFFIX,amap.com
