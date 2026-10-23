@@ -1,0 +1,20 @@
+# NAME: 中国电信
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-10-23 12:18:25
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 8
+# TOTAL: 13
+DOMAIN,1302045025.vod2.myqcloud.com
+DOMAIN,cdn.dcloud.net.cn
+DOMAIN,license.vod2.myqcloud.com
+DOMAIN,mdap.mpaas.cn-hangzhou.aliyuncs.com
+DOMAIN,mpaasapi.mpaas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,bestpay.cn
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,ctmus.cn
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,jiguang.cn
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,qcloud.com

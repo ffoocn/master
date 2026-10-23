@@ -1,0 +1,12 @@
+# NAME: 美团
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-10-23 12:18:25
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+DOMAIN,hcdnl.pull302.gslb.livehwc3.cn
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,dpfile.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net

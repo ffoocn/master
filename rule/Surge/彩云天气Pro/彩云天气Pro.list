@@ -1,0 +1,12 @@
+# NAME: 彩云天气Pro
+# AUTHOR: Rulify
+# REPO: https://github.com/ffoocn/master
+# UPDATED: 2026-10-23 12:18:25
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+DOMAIN,meteorology.caiyuncdn.com
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,colorfulclouds.net
+DOMAIN-SUFFIX,cyapi.cn
+DOMAIN-SUFFIX,umeng.com
