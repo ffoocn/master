@@ -1,10 +1,10 @@
 # NAME: 闲鱼
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-10-23 12:23:08
+# UPDATED: 2026-10-23 12:55:34
 # DOMAIN: 8
-# DOMAIN-SUFFIX: 17
-# TOTAL: 25
+# DOMAIN-SUFFIX: 16
+# TOTAL: 24
 DOMAIN,alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com
 DOMAIN,cloud-config-service.rtc.aliyuncs.com
 DOMAIN,dsp.ads.umeng.com
@@ -14,7 +14,6 @@ DOMAIN,vod-newplayer.cn-hangzhou.log.aliyuncs.com
 DOMAIN,vod.cn-shanghai.aliyuncs.com
 DOMAIN,vpp-license-proxy.aliyuncs.com
 DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabausercontent.com
