@@ -1,15 +1,39 @@
 # NAME: 闲鱼
 # AUTHOR: Rulify
 # REPO: https://github.com/ffoocn/master
-# UPDATED: 2026-06-09 05:26:31
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 6
-# TOTAL: 8
-DOMAIN,msgacs.m.taobao.com
-DOMAIN,slsrole.alicdn.com
+# UPDATED: 2026-10-23 12:15:54
+# DOMAIN: 11
+# DOMAIN-SUFFIX: 21
+# TOTAL: 32
+DOMAIN,alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com
+DOMAIN,apmplus.volces.com
+DOMAIN,cdn.ynuf.aliapp.org
+DOMAIN,cloud-config-service.rtc.aliyuncs.com
+DOMAIN,dsp.ads.umeng.com
+DOMAIN,dypnsapi-dualstack.aliyuncs.com
+DOMAIN,mssdk.volces.com
+DOMAIN,videocloud.cn-hangzhou.dualstack.log.aliyuncs.com
+DOMAIN,vod-newplayer.cn-hangzhou.log.aliyuncs.com
+DOMAIN,vod.cn-shanghai.aliyuncs.com
+DOMAIN,vpp-license-proxy.aliyuncs.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,id6.me
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,effirst.com
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,ubixioe.com
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,voiceads.cn
